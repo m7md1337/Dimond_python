@@ -1,4 +1,4 @@
-def cheche(x,y): # x mean number of loop , y mean number your enter ex: 7 
+def cheche(x,y): # x mean number of loop , y its static mean number your enter ex: 7 
   Center = round(y/2+0.5)
   diff = abs(Center-x) # abs function conver nigatave to positive
   space = abs((diff+diff+2)-y)
